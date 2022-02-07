@@ -27,7 +27,8 @@ body {
 
 .card-container {
     display: flex;
-    height: 500px;
+    height: 450px;
+    /* width: 1200px; */
     margin: 150px 50px 10px 50px;
     background-color: white;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
@@ -36,6 +37,11 @@ body {
 
 .right-side-wrapper {
     padding: 35px;
+    /* width: 600px; */
+}
+
+.main-content {
+
 }
 
 
