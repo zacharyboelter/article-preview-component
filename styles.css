@@ -35,8 +35,12 @@ body {
     border-radius: 8px;
 }
 
+.left-side-wrapper {
+    width: 400px;
+}
+
 .right-side-wrapper {
-    padding: 35px;
+    /* padding: 35px; */
     /* width: 600px; */
 }
 
